@@ -1,4 +1,3 @@
-
 This is the latest version of Voiid Chronicles, and it is designed to work only on Windows.
 
 I have spent a lot of time and effort uploading this because the file size exceeds 100MB.
