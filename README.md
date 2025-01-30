@@ -1,5 +1,7 @@
 This is the latest version of Voiid Chronicles, and it is designed to work only on Windows.
 
+If you have to use it anywhere else you will have to use a third-party-software
+
 I have spent a lot of time and effort uploading this because the file size exceeds 100MB.
 
 Since GitHub has limits on large files, I had to use Git LFS to make this available.
